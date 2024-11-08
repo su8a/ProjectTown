@@ -1,0 +1,15 @@
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\bin\Debug\net6.0\SearchDistance.exe
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\bin\Debug\net6.0\SearchDistance.deps.json
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\bin\Debug\net6.0\SearchDistance.runtimeconfig.json
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\bin\Debug\net6.0\SearchDistance.dll
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\bin\Debug\net6.0\SearchDistance.pdb
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\obj\Debug\net6.0\SearchDistance.csproj.AssemblyReference.cache
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\obj\Debug\net6.0\SearchDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\obj\Debug\net6.0\SearchDistance.AssemblyInfoInputs.cache
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\obj\Debug\net6.0\SearchDistance.AssemblyInfo.cs
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\obj\Debug\net6.0\SearchDistance.csproj.CoreCompileInputs.cache
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\obj\Debug\net6.0\SearchDistance.dll
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\obj\Debug\net6.0\refint\SearchDistance.dll
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\obj\Debug\net6.0\SearchDistance.pdb
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\obj\Debug\net6.0\SearchDistance.genruntimeconfig.cache
+C:\Users\SU8A\Desktop\ProjectTown\SearchDistance\SearchDistance\obj\Debug\net6.0\ref\SearchDistance.dll
